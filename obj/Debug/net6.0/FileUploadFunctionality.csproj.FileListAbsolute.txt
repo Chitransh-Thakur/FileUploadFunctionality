@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\PracticeNetCore\FileUploadFunctionality\FileUploadFunctionality\obj\Debug\net6.0\FileUploadFunctionality.RazorAssemblyInfo.cs
